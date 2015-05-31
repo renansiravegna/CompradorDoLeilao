@@ -1,5 +1,4 @@
 # CompradorDoLeilao
-Cliente de estudo de comunicação com messageria usando nodejs e amqplib
+Cliente de estudo de comunicação com messageria usando nodejs e amqplib.
 
-# Servidor amqp usando RabbitMQ
-https://github.com/gimoteco/Leilao
+Código-fonte do servidor utilizando RabbitMQ: https://github.com/gimoteco/Leilao
