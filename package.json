@@ -1,0 +1,23 @@
+{
+  "name": "CompradorDoLeilao",
+  "version": "1.0.0",
+  "description": "Cliente de estudo de comunicação com messageria usando nodejs e amqplib",
+  "main": "iniciar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renansiravegna/CompradorDoLeilao.git"
+  },
+  "author": "Renan Siravegna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renansiravegna/CompradorDoLeilao/issues"
+  },
+  "homepage": "https://github.com/renansiravegna/CompradorDoLeilao",
+  "dependencies": {
+    "amqplib": "^0.3.2",
+    "when": "^3.7.3"
+  }
+}
